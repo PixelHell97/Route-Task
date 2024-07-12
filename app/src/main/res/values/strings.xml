@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Route Task</string>
+    <string name="egp">EGP %1$s</string>
+    <string name="something_went_wrong">Something Went Wrong,\nPlease check your internet connection.</string>
+    <string name="try_again">Try Again</string>
+    <string name="review">Review</string>
+</resources>
